@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager">
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="dataspell_demo" />
     <orderEntry type="module" module-name="#DATAQUEST" />
   </component>
 </module>
